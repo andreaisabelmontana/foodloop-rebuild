@@ -11,9 +11,9 @@ bakeries, restaurants and markets that have affordable surplus meals.
 
 🔗 **Live:** https://andreaisabelmontana.github.io/foodloop-rebuild/
 
-> A clean-room rebuild, written from scratch to learn the Next.js App Router +
-> static-export + GitHub Actions deploy workflow, and the "separate the UI from
-> testable business rules" pattern. Not a fork.
+> Built from scratch to explore the Next.js App Router + static-export +
+> GitHub Actions deploy workflow, and the "separate the UI from testable
+> business rules" pattern.
 
 ---
 
